@@ -5,7 +5,6 @@ The deployable all-in-one bundle for Ultraviolet, a highly sophisticated proxy u
 
 Deployment
 Deploy to Heroku Run on Replit Deploy on Railway Remix on Glitch Deploy to Koyeb
-
 If you are deploying to an alternative service or to a server, refer to Deploy via terminal.
 
 Additional information such as customizing your frontend can be found on the wiki.
